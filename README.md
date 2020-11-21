@@ -11,7 +11,7 @@ $ sudo install.sh
 
 ## Viewing
 
-![screenshot](screenshot)
+![screenshot](screenshot.png)
 
 
 
